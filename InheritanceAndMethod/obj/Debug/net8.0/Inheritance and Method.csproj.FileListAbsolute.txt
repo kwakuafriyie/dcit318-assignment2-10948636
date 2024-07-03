@@ -1,0 +1,14 @@
+C:\Users\KWAKU\source\repos\Inheritance and Method\bin\Debug\net8.0\Inheritance and Method.exe
+C:\Users\KWAKU\source\repos\Inheritance and Method\bin\Debug\net8.0\Inheritance and Method.deps.json
+C:\Users\KWAKU\source\repos\Inheritance and Method\bin\Debug\net8.0\Inheritance and Method.runtimeconfig.json
+C:\Users\KWAKU\source\repos\Inheritance and Method\bin\Debug\net8.0\Inheritance and Method.dll
+C:\Users\KWAKU\source\repos\Inheritance and Method\bin\Debug\net8.0\Inheritance and Method.pdb
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\Inheritance and Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\Inheritance and Method.AssemblyInfoInputs.cache
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\Inheritance and Method.AssemblyInfo.cs
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\Inheritance and Method.csproj.CoreCompileInputs.cache
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\Inheritance and Method.dll
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\refint\Inheritance and Method.dll
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\Inheritance and Method.pdb
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\Inheritance and Method.genruntimeconfig.cache
+C:\Users\KWAKU\source\repos\Inheritance and Method\obj\Debug\net8.0\ref\Inheritance and Method.dll
